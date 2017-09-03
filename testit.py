@@ -2,4 +2,8 @@
 
 import printit
 
-printit.printit()
+def main():
+    printit.printit()
+
+if __name__ == "__main__":
+    main()
